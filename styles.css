@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+
+  #content {
+    margin-top: 50px;
+  }
+
+  #myImage {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5%;
+    margin-bottom: 20px;
+  }
+
+  #myText {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px;
+  }
+
+  #result {
+    font-size: 18px;
+    margin-top: 30px;
+  }
+
+  #next {
+    margin-top: 20px;
+  }

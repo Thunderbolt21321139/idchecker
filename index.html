@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Webpage</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body onload="nextPlayer()">
+    <div id="content">
+        <img id="myImage" src="" alt="Photo" height="400">
+        
+        <form>
+            <p id="myText"></p>
+            
+            <br>
+            
+            <button class="btn" id="yes" type="button" onclick="button1Clicked()">Yes</button>
+            <button class="btn" id="no" type="button" onclick="button2Clicked()">No</button>
+
+            <br>
+
+            <p id="result"></p>
+
+            <button class="btn" id="next" disabled type="button" onclick="nextPlayer()">Next</button>
+        </form>
+    </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
