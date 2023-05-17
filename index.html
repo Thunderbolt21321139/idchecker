@@ -13,17 +13,18 @@
             
             <br>
             
-            <button class="btn" id="yes" type="button" onclick="button1Clicked()">Yes</button>
-            <button class="btn" id="no" type="button" onclick="button2Clicked()">No</button>
+            <button class="btn" id="yes" type="button" onclick="checkAnswer(1)">Yes</button>
+            <button class="btn" id="no" type="button" onclick="checkAnswer(0)">No</button>
 
             <br>
 
             <p id="result"></p>
 
             <button class="btn" id="next" disabled type="button" onclick="nextPlayer()">Next</button>
+            <button class="btn" id="reset" type="button" onclick="resetGame()">Reset</button>
         </form>
     </div>
   
-  <script src="script.js"></script>
+  <script src="script_large.js"></script>
 </body>
 </html>
