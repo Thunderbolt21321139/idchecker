@@ -30,7 +30,7 @@ var imagePaths = [
     "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2023014/998128.png?im=Scale,width=0.504,height=0.504",
     "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2023014/1008282.png?im=Scale,width=0.504,height=0.504",
     "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2023014/240283.png?im=Scale,width=0.504,height=0.504",
-    "phttps://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2023014/1011449.png?im=Scale,width=0.504,height=0.504",
+    "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2023014/1011449.png?im=Scale,width=0.504,height=0.504",
     "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2023014/290838.png?im=Scale,width=0.504,height=0.504",
     "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2023014/993820.png?im=Scale,width=0.504,height=0.504",
     "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2023014/1005599.png?im=Scale,width=0.504,height=0.504",
@@ -82,7 +82,7 @@ var imagePaths = [
     "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFLW/2101264/1010656.png?im=Scale,width=0.504,height=0.504",
     "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFLW/2101264/1014801.png?im=Scale,width=0.504,height=0.504",
     "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFLW/2101264/1012292.png?im=Scale,width=0.504,height=0.504",
-    "phttps://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFLW/2101264/1017342.png?im=Scale,width=0.504,height=0.504"
+    "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFLW/2101264/1017342.png?im=Scale,width=0.504,height=0.504"
 ];
 var playerNames = [
     "Liam Ryan",
